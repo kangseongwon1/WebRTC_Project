@@ -1,0 +1,26 @@
+{
+  "name": "webrtc_project",
+  "version": "1.0.0",
+  "description": "webrtc project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kangseongwon1/WebRTC_Project.git"
+  },
+  "keywords": [
+    "webrtc"
+  ],
+  "author": "kangseongwon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kangseongwon1/WebRTC_Project/issues"
+  },
+  "homepage": "https://github.com/kangseongwon1/WebRTC_Project#readme",
+  "dependencies": {
+    "node-static": "^0.7.11",
+    "socket.io": "^4.5.4"
+  }
+}
